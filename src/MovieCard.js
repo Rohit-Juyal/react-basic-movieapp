@@ -22,7 +22,6 @@ const MovieCard = ({ movies }) => {
         ))
     }
     </div>
-    
   )
 }
 
